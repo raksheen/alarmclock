@@ -1,0 +1,13 @@
+body {
+  font-family: 'Lato';
+  margin-top: 200px;
+  text-align: center;
+  color: #5C4B51;
+  background:#8CBEB2;
+}
+
+#alarm_clock {
+  font-weight: 300;
+  font-size: 140px;
+  text-shadow:1px 1px;
+}
